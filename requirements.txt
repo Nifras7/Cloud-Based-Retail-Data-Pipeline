@@ -1,0 +1,29 @@
+# Data Processing
+pandas>=2.2.0
+numpy>=2.0.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# AWS
+boto3>=1.35.0
+
+# Snowflake
+snowflake-connector-python>=3.10.0
+snowflake-sqlalchemy>=1.6.0
+sqlalchemy>=2.0.0
+
+# Environment Variables
+python-dotenv>=1.0.1
+
+# Data Validation
+great-expectations>=1.0.0
+
+# File Handling
+openpyxl>=3.1.5
+xlsxwriter>=3.2.0
+
+# Visualization
+matplotlib>=3.9.0
+seaborn>=0.13.2
